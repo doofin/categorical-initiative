@@ -18,5 +18,6 @@ The higher inductive type in HoTT seems very graceful and convenient,but the sup
 
 
 # Resources
-
+ https://github.com/agda/agda-stdlib/blob/master/src/Algebra.agda and
+ 
  https://github.com/agda/agda-stdlib/blob/master/src/Algebra/Structures.agda . Check here for how to define algebraic structures as record.Record in agda and idris are like module.
